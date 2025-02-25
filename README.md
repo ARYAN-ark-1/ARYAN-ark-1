@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 # 💫 About Me:
 
 🤝 **I'm looking to collaborate on:**  
